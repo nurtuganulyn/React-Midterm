@@ -1,0 +1,15 @@
+.project__wrapper {
+    font-size: 36px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 960px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.project__item {
+    text-decoration: none;
+}
+.project__item:hover {
+    text-decoration: underline;
+}

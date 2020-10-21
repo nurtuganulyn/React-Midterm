@@ -1,0 +1,29 @@
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px 0 50px 0;
+}
+.resume {
+    width: 400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.resume__img {
+    display: block;
+    width: 150px;
+    height: 150px;
+
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.resume__info {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    padding-top: 10px;
+}
+.resume__content {
+    padding-bottom: 5px;
+}

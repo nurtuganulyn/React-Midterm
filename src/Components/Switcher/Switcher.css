@@ -1,0 +1,38 @@
+.switcher {
+    padding: 20px;
+    display: grid;
+    justify-content: center;
+}
+.switcher__back {
+    display: block;
+    width: 60px;
+    height: 20px;
+    background: gray;
+    border-radius: 15px;
+    z-index: 10;
+    position: relative;
+}
+.switcher__circle {
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: red;
+    border-radius: 15px;
+    z-index: 11;
+    position: absolute;
+    bottom: -25%;
+    transform: translateX(30px);
+    transition: 0.2s ease-in;
+}
+.open {
+    background: royalblue;
+    display: block;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    z-index: 11;
+    position: absolute;
+    bottom: -25%;
+    transform: translateX(0);
+    transition: 0.2s ease-out;
+}

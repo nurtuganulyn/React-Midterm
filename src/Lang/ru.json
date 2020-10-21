@@ -1,0 +1,30 @@
+{
+  "cv": {
+    "name": "Нурсултан",
+    "surname": "Нуртуганулы",
+    "age": 21,
+    "job": "Фронт-Энд разработчик",
+    "emailValue": "nurtuganulyn@gmail.com",
+    "websiteValue": "https://github.com/nurtuganulyn",
+    "mobileValue": "8 776 169 41 43",
+    "email": "э-почта",
+    "website": "вебсайт",
+    "mobile": "телефон",
+    "info": "Персональная информация",
+    "workExp": "Опыт работы",
+    "jobTitleAtCompany": "Фронт-Энд разработчик (Стажер)",
+    "jobDate": "Июнь 20 - Настоящее время",
+    "skills": "Навыки",
+    "skillsValue": "Спорт, Кодинг, Кушать",
+    "education": "Образование",
+    "university": "КБТУ",
+    "qualification": "ВТиПО",
+    "contacts": "Контакты",
+    "projects": "Проекты",
+    "task": "Задания",
+    "todoTitle": "Задание на ближайшее время",
+    "buttonTodo": "Добавить задачу",
+    "completeTodo" : "Законченный",
+    "inCompleteTodo" : "Неполный"
+  }
+}

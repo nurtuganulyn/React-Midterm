@@ -1,0 +1,30 @@
+{
+  "cv": {
+    "name": "Nursultan",
+    "surname": "Nurtuganuly",
+    "age": 21,
+    "job": "Front-End Developer",
+    "emailValue": "nurtuganulyn@gmail.com",
+    "websiteValue": "https://github.com/nurtuganulyn",
+    "mobileValue": "8 776 169 41 43",
+    "email": "email",
+    "website": "website",
+    "mobile": "mobile",
+    "info": "Personal Info",
+    "workExp": "Work Experience",
+    "jobTitleAtCompany": "Front-End Developer (Internship)",
+    "jobDate": "June 20 - Present",
+    "skills": "Key Skills",
+    "skillsValue": "Sport, Coding, Eating",
+    "education": "Education",
+    "university": "KBTU",
+    "qualification": "Computing technology and software",
+    "contacts": "Contacts",
+    "projects": "Projects",
+    "task": "Tasks",
+    "todoTitle": "Task for the near future",
+    "buttonTodo": "Add task",
+    "completeTodo" : "Complete",
+    "inCompleteTodo" : "Incomplete"
+  }
+}
